@@ -1,0 +1,68 @@
+https://i0.wp.com/thefanengagement.com/wp-content/uploads/2021/04/foam_finger.png?fit=1020%2C1726&#038;ssl=1
+
+https://i0.wp.com/thefanengagement.com/wp-content/uploads/2021/04/3carres.png?fit=1821%2C1369&#038;ssl=1
+
+https://i0.wp.com/thefanengagement.com/wp-content/uploads/2021/04/img-work.png?fit=1926%2C1686&#038;ssl=1
+
+*****************************************************************************
+    <link rel="profile" href="http://gmpg.org/xfn/11" /> (Whats this)
+
+{-----------------------------------------------------------------------------------------------
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"
+    />
+
+    <meta
+      name="robots"
+      content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+    />
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <meta
+      name="description"
+      content="SMS-powered user engagement platform that brings brands right to the fingertips of fans during live sports events."
+    />
+}-----------------------------------------------------------------------------------------------
+
+{------------------------------------------------------------------------------------------------
+    <link rel="alternate" hreflang="en" href="index.html" />
+    <link rel="alternate" hreflang="fr" href="fr/index.html" />
+    <link rel="alternate" hreflang="x-default" href="index.html" />
+}------------------------------------------------------------------------------------------------
+
+{-----------------------------------------------------------------------------------------------
+    Yoast SEO plugin v19.3
+    https://yoast.com/wordpress/plugins/seo/
+}-------------------------------------------------------------------------------------------------
+
+
+
+{
+    <link rel="canonical" href="index.html" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:title"
+      content="The Fan Engagement - Frictionless connection with your fans anywhere"
+    />
+    <meta
+      property="og:description"
+      content="SMS-powered frictionless user engagement platform that brings brands right to the fingertips of fans during live sports events."
+    />
+    <meta property="og:url" content="https://thefanengagement.com/" />
+    <meta property="og:site_name" content="Fan Engagement" />
+    <meta
+      property="article:modified_time"
+      content="2021-09-13T20:02:13+00:00"
+    />
+    <meta
+      property="og:image"
+      content="https://i1.wp.com/thefanengagement.com/wp-content/uploads/2021/09/The-Fan-Engagement-image.jpg?fit=1050%2C671&ssl=1"
+    />
+    <meta property="og:image:width" content="1050" />
+    <meta property="og:image:height" content="671" />
+    <meta property="og:image:type" content="image/jpeg" />
+    <meta name="twitter:card" content="summary_large_image" />
+}
