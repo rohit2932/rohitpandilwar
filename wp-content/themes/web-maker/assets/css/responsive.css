@@ -5,7 +5,7 @@
 
 
 /* Extra small devices (phones, 600px and down) */
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 780px) {
 
     body, html { overflow-x: hidden !important; }
     .tel-link { pointer-events: auto; cursor: pointer; }
@@ -37,7 +37,7 @@
     footer .powered { font-size: 1rem; display: block; }
 
     /* home */
-    .hero_phone { width: 90%; height: auto; margin-top: -25vw; }
+    .hero_phone { width: 100%; height: auto; margin-top: -25vw; margin-left: 0;}
     .hero_scroll { display: none; }
     .book_a_demo { font-size: 1.25rem; bottom: 2rem; right: 2rem;  }
     h1 { font-size: 19vw; line-height: 1; bottom: 45vw; left: 1rem; }
