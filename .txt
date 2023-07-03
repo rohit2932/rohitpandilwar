@@ -45,21 +45,21 @@ https://i0.wp.com/thefanengagement.com/wp-content/uploads/2021/04/img-work.png?f
     <meta property="og:type" content="website" />
     <meta
       property="og:title"
-      content="The Fan Engagement - Frictionless connection with your fans anywhere"
+      content="The Web Maker - Frictionless connection with your fans anywhere"
     />
     <meta
       property="og:description"
       content="SMS-powered frictionless user engagement platform that brings brands right to the fingertips of fans during live sports events."
     />
     <meta property="og:url" content="https://thefanengagement.com/" />
-    <meta property="og:site_name" content="Fan Engagement" />
+    <meta property="og:site_name" content="Web Maker" />
     <meta
       property="article:modified_time"
       content="2021-09-13T20:02:13+00:00"
     />
     <meta
       property="og:image"
-      content="https://i1.wp.com/thefanengagement.com/wp-content/uploads/2021/09/The-Fan-Engagement-image.jpg?fit=1050%2C671&ssl=1"
+      content="https://i1.wp.com/thefanengagement.com/wp-content/uploads/2021/09/The-web-maker-image.jpg?fit=1050%2C671&ssl=1"
     />
     <meta property="og:image:width" content="1050" />
     <meta property="og:image:height" content="671" />
