@@ -42,19 +42,92 @@
     .book_a_demo { font-size: 1.25rem; bottom: 2rem; right: 2rem;  }
     h1 { font-size: 19vw; line-height: 1; bottom: 45vw; left: 1rem; }
     h1 span.slogan { font-size: 1rem; }
+    .line1{
+        margin-left: 42vw;
+    }
+    .line2{
+        margin-left: 10vw;
+    }
+    .slogan{
+        margin-left: 7vw;
+    }
 
     /* About */
     h2 { font-size: 3rem; left: 2rem; top: 2rem; }
     .whatisit_slider_content { width: 100vw;}
-    .whatisit_slider_content .foam { width: 55vw; left: 10vw; margin-top: inherit; margin-left: inherit; margin-bottom: -10vw; }
+    .whatisit_slider_content .foam { width: 70vw; left: 10vw; margin-top: inherit; margin-left: inherit; margin-bottom: -10vw; }
     .whatisit_slider_content .iphone { width: 40vw; margin-right: inherit; margin-bottom: -10vw; right: 10vw; }
     .whatisit_slider_content .slider_text { font-size: 2rem; width: 75vw; margin-bottom: -2rem; }
-    .whatisit_slider_content .slider_text_back { font-size: 6rem; bottom: 25vw; left: 2rem; width: 100vw; }
+    .whatisit_slider_content .slider_text_back { font-size: 4rem; bottom: 25vw; left: 2rem; width: 100vw; }
     .num_content { padding: 0 2rem; font-size: 3rem; }
     .whatisit_slider_content .carres { width: 100vw; max-width: inherit; }
     .whatisit_slider_content .casquette { width: 100%; }
-    /*.whatisit_slider_num { display: none; }*/
-
+    .whatisit_slider_num { display: none; }
+    .box10{
+        display: none;
+    }
+    .snake{
+        width: 60vw;
+    }
+    #nw{
+        display: none;
+    }
+    #three{
+        font-size: 5vw;
+        margin-bottom: 35vw;
+    }
+    #ssss{
+        margin-left: 14vw;
+    }
+    #about_p{
+        justify-content: center;
+        align-items: center;
+        padding: 9vw;
+    }
+    #about_p h3{
+        font-size: 9vw;
+    }
+    #about_p p{
+        font-size: 5vw;
+    }
+    #work_p{
+        justify-content: center;
+        align-items: center;
+        margin-right: 16vw;
+        margin-top: 0vw;
+        width: 78vw;
+        padding: 9vw;
+    }
+    #work_p h3{
+        font-size: 9vw;
+    }
+    #work_p p{
+        font-size: 5vw;
+    }
+    #skills_p{
+        justify-content: center;
+        align-items: center;
+        margin-right: 52vw;
+        margin-top: 0vw;
+        padding: 9vw;
+        width: 72vw;
+    }
+    #skills_p h3{
+        font-size: 9vw;
+    }
+    #skills_p p{
+        font-size: 5vw;
+    }
+    #introd{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    #trackr{
+        padding: 5vw;
+        font-size: 25vw;
+    }
     /* SMS JUST WORS */
     .stats-wrapper { width: 100%; padding: 12rem 2rem 2rem 2rem; }
     .aStats1, .aStats2, .aStats3, .aStats4 { margin: inherit; margin: auto; width: 100%; }
@@ -106,7 +179,7 @@
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
-@media only screen and (min-width: 767px) and (max-width: 1023px)  {
+@media only screen and (min-width: 781px) and (max-width: 1023px)  {
 
     body, html { overflow-x: hidden; }
     .tel-link { pointer-events: auto; cursor: pointer; }
