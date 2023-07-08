@@ -232,6 +232,10 @@ p {
 	from { transform: translateX(-50%); }
 	to { transform: translateX(0); }
 }
+@keyframes marquee2 {
+	from { transform: translate(-50%); }
+	to { transform: translateX(0); }
+}
 
 
 
@@ -774,6 +778,9 @@ h2::after {
 	height: 29vw;
 	padding: 0 2.5vw;
 }
+#hd{
+	display: none;
+}
 
 .overlay_img {
 	position: absolute;
@@ -836,7 +843,9 @@ h3 img {
 	margin-top: .25vw;
 }
 
-
+.hideD{
+	display: none;
+}
 
 /* WORK */
 
